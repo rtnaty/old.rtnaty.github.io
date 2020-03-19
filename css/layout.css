@@ -15,7 +15,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: rgb(50, 56, 83);
+   background: linear-gradient(0deg,rgba(50, 56, 83, 0.980),rgba(37, 60, 59, 0.900)),url('../images/header-backgroung.jpg'); 
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -761,6 +761,20 @@ call-to-action .button {
    border-radius: 2px;
 
 }
+
+.btn-submit{
+   background: rgb(50, 56, 83) !important;
+   text-transform: uppercase;
+	letter-spacing: 3px;
+	color:#fff;
+	border: none;
+   cursor: pointer;
+   height: auto;
+   display: inline-block;
+	border-radius: 3px;
+   margin-left: 26%;
+}
+
 #contact input:focus,
 #contact textarea:focus,
 #contact select:focus {
