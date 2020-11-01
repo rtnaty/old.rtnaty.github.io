@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Tsilavina Mamitina",
+    "name":"Mamitina Ramanantsoa",
     "occupation":"Développeur – Expert Internet des Objets",
     "description":"Passionné de technologie et d’innovation",
     "image":"profilepic.jpg",
@@ -62,14 +62,20 @@
     ],
     "work":[
       {
+        "company":"Locweld Canada",
+        "title":"Développeur Logiciel",
+        "years":"Juillet 2020 — present",
+        "description":"Développeur fullstack."
+      },
+      {
         "company":"Weelink services",
         "title":"Développeur Web - Freelance",
-        "years":"Novembre 2019 — present",
+        "years":"Novembre 2019 — juin-2020",
         "description":"Conception d'un portail web."
       },
       {
         "company":"Laboratoire IoT de l'UQAM",
-        "title":"Assistant de recherche à Lab.IoT ",
+        "title":"Assistant de recherche au Lab.IoT ",
         "years":"Janvier 2018 - Janvier 2020",
         "description":"Developpeur et Data Analyst dans divers projets de recherche appliquée (p.ex., développement d’un magasin connecté, projet de gymnase connecté, projet Montréal en Histoire) en collaboration à divers projets soutenus par des partenaires technologiques: reelyActive, Daxyon, RF Controls, Impinj"
       },
@@ -83,7 +89,19 @@
     "skills":[
       {
         "name":"IIoT",
+        "level":"100%"
+      },
+      {
+        "name":"C#",
+        "level":"99%"
+      },
+      {
+        "name":"DotNet",
         "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
       },
       {
         "name":"HTML&CSS",
@@ -94,14 +112,6 @@
         "level":"80%"
       },
       {
-        "name":"Python",
-        "level":"80%"
-      },
-      {
-        "name":"C#",
-        "level":"75%"
-      },
-      {
         "name":"NodeJs",
         "level":"75%"
       },
@@ -110,12 +120,8 @@
         "level":"75%"
       },
       {
-        "name":"DotNet",
-        "level":"70%"
-      },
-      {
         "name":"SQL",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"MongoDB",
