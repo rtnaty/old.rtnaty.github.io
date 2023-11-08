@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Mamitina Ramanantsoa",
-    "occupation":"Développeur – Expert Internet des Objets",
+    "occupation":"Architecte logiciel – Expert Internet des Objets",
     "description":"Passionné de technologie et d’innovation",
     "image":"profilepic.jpg",
     "bio":"Passionné de technologie et d’innovation, j’aime le travail bien fait. Ma capacité à se bâtir une discipline personnelle et mon sens critique combinés à mes connaissances sont mes principaux atouts. J’ai acquis de l’expérience à travers différents projets. Je possède également une solide formation en gestion des bases de données.",
@@ -9,10 +9,10 @@
     "email": "rtnaty@me.com",
     "phone": "+1 (514) 572 7105",
     "address":{
-      "street":"5-2035 Rue Lambert Closse",
-      "city":"Montréal",
+      "street":"1835 Rue Walnut",
+      "city":"Saint Hubert",
       "state":"Quebec",
-      "zip": "H3H 1Z7"
+      "zip": "J4T 1G6"
     },
     "social":[
       {
@@ -62,9 +62,21 @@
     ],
     "work":[
       {
-        "company":"Locweld Canada",
+        "company":"Techinnov inc.",
+        "title":"Architecte logiciel",
+        "years":"Novembre 2023 — present",
+        "description":"Développeur fullstack."
+      },
+      {
+        "company":"Techinnov inc.",
+        "title":"Développeur Full Stack",
+        "years":"Fevrier 2022 — Novembre 2023",
+        "description":"Développeur fullstack."
+      },
+      {
+        "company":"Locweld inc.",
         "title":"Développeur Logiciel",
-        "years":"Juillet 2020 — present",
+        "years":"Juillet 2020 — Fevrier 2022",
         "description":"Développeur fullstack."
       },
       {
@@ -78,15 +90,13 @@
         "title":"Assistant de recherche au Lab.IoT ",
         "years":"Janvier 2018 - Janvier 2020",
         "description":"Developpeur et Data Analyst dans divers projets de recherche appliquée (p.ex., développement d’un magasin connecté, projet de gymnase connecté, projet Montréal en Histoire) en collaboration à divers projets soutenus par des partenaires technologiques: reelyActive, Daxyon, RF Controls, Impinj"
-      },
-      {
-        "company":"Madagascar",
-        "title":"Développeur Web",
-        "years":"Août 2013 — Avril 2014",
-        "description":"Conception et amélioration d’un portail web, sous PHP, HTML et CSS."
       }
     ],
     "skills":[
+      {
+        "name":"Azure DevOps",
+        "level":"90%"
+      },
       {
         "name":"IIoT",
         "level":"100%"
